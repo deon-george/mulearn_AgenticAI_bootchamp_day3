@@ -1,0 +1,1 @@
+Create a notebook that analyzes a CSV with statistics and charts
